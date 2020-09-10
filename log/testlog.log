@@ -163,3 +163,32 @@
 2020-09-10 08:14:47,027 - largestWord -INFO - Entered password
 2020-09-10 08:14:47,933 - largestWord -INFO - login has passed
 2020-09-10 08:14:47,959 - largestWord -INFO - The longest word is Manager's
+2020-09-10 08:25:29,014 - largestWord -INFO - Url is open
+2020-09-10 08:25:29,150 - largestWord -INFO - Entered username
+2020-09-10 08:25:29,212 - largestWord -INFO - Entered password
+2020-09-10 08:25:29,949 - largestWord -INFO - login has passed
+2020-09-10 08:25:29,970 - largestWord -INFO - The longest word has 9 letters
+2020-09-10 08:25:35,488 - largestWord -INFO - Url is open
+2020-09-10 08:25:35,566 - largestWord -INFO - Entered username
+2020-09-10 08:25:35,638 - largestWord -INFO - Entered password
+2020-09-10 08:25:36,326 - largestWord -INFO - login has passed
+2020-09-10 08:25:36,349 - largestWord -INFO - longest word in a sentence is Manager's
+2020-09-10 08:25:42,045 - largestWord -INFO - Url is open
+2020-09-10 08:25:42,125 - largestWord -INFO - Entered username
+2020-09-10 08:25:42,196 - largestWord -INFO - Entered password
+2020-09-10 08:25:42,857 - largestWord -INFO - login has passed
+2020-09-10 08:25:48,401 - largestWord -INFO - Url is open
+2020-09-10 08:25:48,479 - largestWord -INFO - Entered username
+2020-09-10 08:25:48,547 - largestWord -INFO - Entered password
+2020-09-10 08:25:49,200 - largestWord -INFO - login has passed
+2020-09-10 08:25:49,225 - largestWord -INFO - The longest word is Manager's
+2020-09-10 08:25:54,688 - largestWord -INFO - Url is open
+2020-09-10 08:25:54,759 - largestWord -INFO - Entered username
+2020-09-10 08:25:54,825 - largestWord -INFO - Entered password
+2020-09-10 08:25:55,638 - largestWord -INFO - login has passed
+2020-09-10 08:25:55,666 - largestWord -INFO - The longest word is Manager's
+2020-09-10 08:27:57,182 - largestWord -INFO - Url is open
+2020-09-10 08:27:57,280 - largestWord -INFO - Entered username
+2020-09-10 08:27:57,348 - largestWord -INFO - Entered password
+2020-09-10 08:27:57,960 - largestWord -INFO - login has passed
+2020-09-10 08:27:57,985 - largestWord -INFO - The longest word is Manager's

@@ -163,3 +163,32 @@
 2020-09-10 08:14:47,027 [main] INFO largestWord - Entered password
 2020-09-10 08:14:47,933 [main] INFO largestWord - login has passed
 2020-09-10 08:14:47,959 [main] INFO largestWord - The longest word is Manager's
+2020-09-10 08:25:29,014 [main] INFO largestWord - Url is open
+2020-09-10 08:25:29,150 [main] INFO largestWord - Entered username
+2020-09-10 08:25:29,212 [main] INFO largestWord - Entered password
+2020-09-10 08:25:29,949 [main] INFO largestWord - login has passed
+2020-09-10 08:25:29,970 [main] INFO largestWord - The longest word has 9 letters
+2020-09-10 08:25:35,488 [main] INFO largestWord - Url is open
+2020-09-10 08:25:35,566 [main] INFO largestWord - Entered username
+2020-09-10 08:25:35,638 [main] INFO largestWord - Entered password
+2020-09-10 08:25:36,326 [main] INFO largestWord - login has passed
+2020-09-10 08:25:36,349 [main] INFO largestWord - longest word in a sentence is Manager's
+2020-09-10 08:25:42,045 [main] INFO largestWord - Url is open
+2020-09-10 08:25:42,125 [main] INFO largestWord - Entered username
+2020-09-10 08:25:42,196 [main] INFO largestWord - Entered password
+2020-09-10 08:25:42,857 [main] INFO largestWord - login has passed
+2020-09-10 08:25:48,401 [main] INFO largestWord - Url is open
+2020-09-10 08:25:48,479 [main] INFO largestWord - Entered username
+2020-09-10 08:25:48,547 [main] INFO largestWord - Entered password
+2020-09-10 08:25:49,200 [main] INFO largestWord - login has passed
+2020-09-10 08:25:49,225 [main] INFO largestWord - The longest word is Manager's
+2020-09-10 08:25:54,688 [main] INFO largestWord - Url is open
+2020-09-10 08:25:54,759 [main] INFO largestWord - Entered username
+2020-09-10 08:25:54,825 [main] INFO largestWord - Entered password
+2020-09-10 08:25:55,638 [main] INFO largestWord - login has passed
+2020-09-10 08:25:55,666 [main] INFO largestWord - The longest word is Manager's
+2020-09-10 08:27:57,182 [main] INFO largestWord - Url is open
+2020-09-10 08:27:57,280 [main] INFO largestWord - Entered username
+2020-09-10 08:27:57,348 [main] INFO largestWord - Entered password
+2020-09-10 08:27:57,960 [main] INFO largestWord - login has passed
+2020-09-10 08:27:57,985 [main] INFO largestWord - The longest word is Manager's

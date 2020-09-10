@@ -58,6 +58,7 @@ public class HomePage {
 				s2 = s3;
 			}
 		}
+		System.out.println("The longest word has "+s2.length()+" letters");
 		return s2;
 	}
 }
