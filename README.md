@@ -24,4 +24,4 @@ Installed JDK, eclipse and properly configured environment variables on windows
 Instructions for use:
 Make git clone or download project
 Import project as existing maven project in eclipse or similar java IDE
-Run project as TestNG tests or run each test separately
+Run project as TestNG tests or run each test separately.
