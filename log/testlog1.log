@@ -33,3 +33,133 @@
 2020-09-09 19:22:11,109 [main] INFO largestWord - Entered username
 2020-09-09 19:22:11,173 [main] INFO largestWord - Entered password
 2020-09-09 19:22:12,013 [main] INFO largestWord - login has failed
+2020-09-09 22:04:38,507 [main] INFO largestWord - Url is open
+2020-09-09 22:04:38,796 [main] INFO largestWord - Entered username
+2020-09-09 22:04:38,957 [main] INFO largestWord - Entered password
+2020-09-09 22:04:39,995 [main] INFO largestWord - login has failed
+2020-09-09 22:05:02,275 [main] INFO largestWord - Url is open
+2020-09-09 22:05:02,439 [main] INFO largestWord - Entered username
+2020-09-09 22:05:02,533 [main] INFO largestWord - Entered password
+2020-09-09 22:05:03,449 [main] INFO largestWord - login has failed
+2020-09-09 22:05:33,871 [main] INFO largestWord - Url is open
+2020-09-09 22:05:34,023 [main] INFO largestWord - Entered username
+2020-09-09 22:05:34,117 [main] INFO largestWord - Entered password
+2020-09-09 22:05:35,260 [main] INFO largestWord - login has failed
+2020-09-09 22:46:25,587 [main] INFO largestWord - Url is open
+2020-09-09 22:46:25,747 [main] INFO largestWord - Entered username
+2020-09-09 22:46:25,848 [main] INFO largestWord - Entered password
+2020-09-09 22:46:26,958 [main] INFO largestWord - login has failed
+2020-09-09 22:46:26,958 [main] INFO largestWord - longest word in a sentence is 
+2020-09-09 22:49:47,457 [main] INFO largestWord - Url is open
+2020-09-09 22:49:47,660 [main] INFO largestWord - Entered username
+2020-09-09 22:49:47,763 [main] INFO largestWord - Entered password
+2020-09-09 22:49:50,165 [main] INFO largestWord - login has failed
+2020-09-09 22:49:50,166 [main] INFO largestWord - longest word in a sentence is 
+2020-09-09 22:50:40,740 [main] INFO largestWord - Url is open
+2020-09-09 22:50:41,015 [main] INFO largestWord - Entered username
+2020-09-09 22:50:41,173 [main] INFO largestWord - Entered password
+2020-09-09 22:50:42,286 [main] INFO largestWord - login has failed
+2020-09-09 22:50:42,287 [main] INFO largestWord - longest word in a sentence is 
+2020-09-09 22:51:56,729 [main] INFO largestWord - Url is open
+2020-09-09 22:51:56,958 [main] INFO largestWord - Entered username
+2020-09-09 22:51:57,050 [main] INFO largestWord - Entered password
+2020-09-09 22:51:58,193 [main] INFO largestWord - login has failed
+2020-09-09 22:51:58,231 [main] INFO largestWord - longest word in a sentence is Manager's
+2020-09-09 22:56:22,137 [main] INFO largestWord - Url is open
+2020-09-09 22:56:22,353 [main] INFO largestWord - Entered username
+2020-09-09 22:56:22,449 [main] INFO largestWord - Entered password
+2020-09-09 22:56:23,564 [main] INFO largestWord - login has failed
+2020-09-09 22:56:23,620 [main] INFO largestWord - longest word in a sentence is Manager's
+2020-09-09 23:07:53,565 [main] INFO largestWord - Url is open
+2020-09-09 23:07:53,785 [main] INFO largestWord - Entered username
+2020-09-09 23:07:53,876 [main] INFO largestWord - Entered password
+2020-09-09 23:07:55,038 [main] INFO largestWord - login has failed
+2020-09-09 23:08:41,582 [main] INFO largestWord - Url is open
+2020-09-09 23:08:41,725 [main] INFO largestWord - Entered username
+2020-09-09 23:08:41,812 [main] INFO largestWord - Entered password
+2020-09-09 23:11:40,855 [main] INFO largestWord - Url is open
+2020-09-09 23:11:41,167 [main] INFO largestWord - Entered username
+2020-09-09 23:11:41,258 [main] INFO largestWord - Entered password
+2020-09-09 23:12:45,648 [main] INFO largestWord - Url is open
+2020-09-09 23:12:45,915 [main] INFO largestWord - Entered username
+2020-09-09 23:12:46,029 [main] INFO largestWord - Entered password
+2020-09-09 23:12:46,851 [main] INFO largestWord - login has passed
+2020-09-10 00:14:17,625 [main] INFO largestWord - Url is open
+2020-09-10 00:14:17,726 [main] INFO largestWord - Entered username
+2020-09-10 00:14:17,787 [main] INFO largestWord - Entered password
+2020-09-10 00:14:18,579 [main] INFO largestWord - login has passed
+2020-09-10 00:15:53,733 [main] INFO largestWord - Url is open
+2020-09-10 00:15:53,845 [main] INFO largestWord - Entered username
+2020-09-10 00:15:53,907 [main] INFO largestWord - Entered password
+2020-09-10 00:15:54,875 [main] INFO largestWord - login has passed
+2020-09-10 00:16:38,137 [main] INFO largestWord - Url is open
+2020-09-10 00:16:38,252 [main] INFO largestWord - Entered username
+2020-09-10 00:16:38,322 [main] INFO largestWord - Entered password
+2020-09-10 00:16:39,264 [main] INFO largestWord - login has passed
+2020-09-10 00:18:42,118 [main] INFO largestWord - Url is open
+2020-09-10 00:18:42,217 [main] INFO largestWord - Entered username
+2020-09-10 00:18:42,284 [main] INFO largestWord - Entered password
+2020-09-10 00:18:42,921 [main] INFO largestWord - login has passed
+2020-09-10 00:20:25,037 [main] INFO largestWord - Url is open
+2020-09-10 00:20:25,145 [main] INFO largestWord - Entered username
+2020-09-10 00:20:25,228 [main] INFO largestWord - Entered password
+2020-09-10 00:20:25,974 [main] INFO largestWord - login has passed
+2020-09-10 00:21:55,986 [main] INFO largestWord - Url is open
+2020-09-10 00:21:56,102 [main] INFO largestWord - Entered username
+2020-09-10 00:21:56,190 [main] INFO largestWord - Entered password
+2020-09-10 00:21:57,040 [main] INFO largestWord - login has passed
+2020-09-10 00:21:57,065 [main] INFO largestWord - The longest word has 9letters
+2020-09-10 00:22:29,858 [main] INFO largestWord - Url is open
+2020-09-10 00:22:29,961 [main] INFO largestWord - Entered username
+2020-09-10 00:22:30,024 [main] INFO largestWord - Entered password
+2020-09-10 00:22:30,876 [main] INFO largestWord - login has passed
+2020-09-10 00:22:30,901 [main] INFO largestWord - The longest word has 9letters
+2020-09-10 00:22:53,997 [main] INFO largestWord - Url is open
+2020-09-10 00:22:54,103 [main] INFO largestWord - Entered username
+2020-09-10 00:22:54,174 [main] INFO largestWord - Entered password
+2020-09-10 00:22:55,350 [main] INFO largestWord - login has passed
+2020-09-10 00:22:55,379 [main] INFO largestWord - The longest word has 9 letters
+2020-09-10 07:44:01,511 [main] INFO largestWord - Url is open
+2020-09-10 07:44:01,606 [main] INFO largestWord - Entered username
+2020-09-10 07:44:01,682 [main] INFO largestWord - Entered password
+2020-09-10 07:44:02,667 [main] INFO largestWord - login has failed
+2020-09-10 07:44:46,634 [main] INFO largestWord - Url is open
+2020-09-10 07:44:46,734 [main] INFO largestWord - Entered username
+2020-09-10 07:44:46,796 [main] INFO largestWord - Entered password
+2020-09-10 07:44:47,498 [main] INFO largestWord - login has passed
+2020-09-10 07:45:25,809 [main] INFO largestWord - Url is open
+2020-09-10 07:45:25,932 [main] INFO largestWord - Entered username
+2020-09-10 07:45:25,997 [main] INFO largestWord - Entered password
+2020-09-10 07:45:26,952 [main] INFO largestWord - login has passed
+2020-09-10 07:46:07,294 [main] INFO largestWord - Url is open
+2020-09-10 07:46:07,412 [main] INFO largestWord - Entered username
+2020-09-10 07:46:07,483 [main] INFO largestWord - Entered password
+2020-09-10 07:46:08,518 [main] INFO largestWord - login has passed
+2020-09-10 07:47:56,190 [main] INFO largestWord - Url is open
+2020-09-10 07:47:56,296 [main] INFO largestWord - Entered username
+2020-09-10 07:47:56,362 [main] INFO largestWord - Entered password
+2020-09-10 07:47:57,286 [main] INFO largestWord - login has passed
+2020-09-10 08:00:58,148 [main] INFO largestWord - Url is open
+2020-09-10 08:00:58,248 [main] INFO largestWord - Entered username
+2020-09-10 08:00:58,315 [main] INFO largestWord - Entered password
+2020-09-10 08:00:59,015 [main] INFO largestWord - login has passed
+2020-09-10 08:02:00,518 [main] INFO largestWord - Url is open
+2020-09-10 08:02:00,636 [main] INFO largestWord - Entered username
+2020-09-10 08:02:00,708 [main] INFO largestWord - Entered password
+2020-09-10 08:02:01,787 [main] INFO largestWord - login has passed
+2020-09-10 08:02:01,815 [main] INFO largestWord - The longest word has Manager's letters
+2020-09-10 08:02:47,797 [main] INFO largestWord - Url is open
+2020-09-10 08:02:47,906 [main] INFO largestWord - Entered username
+2020-09-10 08:02:47,971 [main] INFO largestWord - Entered password
+2020-09-10 08:02:48,627 [main] INFO largestWord - login has passed
+2020-09-10 08:02:48,664 [main] INFO largestWord - The longest word is Manager's
+2020-09-10 08:03:47,592 [main] INFO largestWord - Url is open
+2020-09-10 08:03:47,722 [main] INFO largestWord - Entered username
+2020-09-10 08:03:47,793 [main] INFO largestWord - Entered password
+2020-09-10 08:03:48,499 [main] INFO largestWord - login has passed
+2020-09-10 08:03:48,521 [main] INFO largestWord - The longest word is Manager's
+2020-09-10 08:14:46,862 [main] INFO largestWord - Url is open
+2020-09-10 08:14:46,960 [main] INFO largestWord - Entered username
+2020-09-10 08:14:47,027 [main] INFO largestWord - Entered password
+2020-09-10 08:14:47,933 [main] INFO largestWord - login has passed
+2020-09-10 08:14:47,959 [main] INFO largestWord - The longest word is Manager's

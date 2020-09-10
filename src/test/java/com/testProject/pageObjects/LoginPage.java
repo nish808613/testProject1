@@ -37,4 +37,23 @@ public class LoginPage {
 	public void clickSubmit() {
 		btnLogin.click();
 	}
+	
+	@FindBy(xpath = "//marquee")
+	WebElement sentence;
+	
+	public int longestWord() {
+		String s = sentence.getText();
+		String [] words = s.split(" ");
+		int longestWord = 0;
+		String lw = "";
+		for(String word:words) {
+			if(longestWord<word.length()) {
+				longestWord=word.length();
+				lw = word;
+			}
+		}
+		System.out.println(lw);
+		return longestWord;
+	}
+
 }

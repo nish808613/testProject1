@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [largestWordFromSentence]">
+  <listeners>
+    <listener class-name="com.testProject.utilites.Reporting"/>
+  </listeners>
   <test thread-count="5" name="Test(failed)">
-    <parameter name="browser" value="firefox"/>
+    <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.testProject.testCases.TC_Test_001">
+      <class name="com.testProject.testCases.TC_Test_004">
         <methods>
-          <include name="loginTest"/>
+          <include name="Test4"/>
           <include name="tearDown"/>
           <include name="setUp"/>
         </methods>
-      </class> <!-- com.testProject.testCases.TC_Test_001 -->
+      </class> <!-- com.testProject.testCases.TC_Test_004 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [largestWordFromSentence] -->
