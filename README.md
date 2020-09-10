@@ -9,7 +9,7 @@ Login to a dummy site
 
 Fetch the largest sentence from the home page
 
-Identify the longest word from the sntence and return the word and the length
+Identify the longest word from the sentence and return the word and the length
 
 Project is based on Java and Selenium.
 
